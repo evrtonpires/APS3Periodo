@@ -20,4 +20,21 @@
 		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/imagem/abstract.png</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/src/Imagens/abstract.png</locationURI>
+		</link>
+		<link>
+			<name>src/imagem/login.png</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/src/Imagens/login.png</locationURI>
+		</link>
+		<link>
+			<name>src/imagem/senha.png</name>
+			<type>1</type>
+			<locationURI>PROJECT_LOC/src/Imagens/senha.png</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
